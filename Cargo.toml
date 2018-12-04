@@ -4,6 +4,5 @@ version = "0.1.0"
 authors = ["dominik-ernst <dominik.ernst@tu-berlin.de>"]
 
 [dependencies]
-
-rand = "0.6.1"
 regex = "1.1.0"
+chrono = "0.4"
